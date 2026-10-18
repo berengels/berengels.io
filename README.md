@@ -1,0 +1,3 @@
+# berengels.nl
+
+Statische website.
