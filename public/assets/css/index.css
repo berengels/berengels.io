@@ -38,6 +38,7 @@ figure, p, h1, h2 { margin: 0; }
 .hero .label { margin-bottom: 1.7rem; }
 h1 { font-size: clamp(2rem, 4.42vw, 5.5rem); font-weight: 650; line-height: 1.1; letter-spacing: -.057em; }
 h1 span { display: block; }
+.quote-credit { margin-top: 1.25rem; font-size: .8rem; color: var(--muted); }
 .hero-bottom { display: flex; justify-content: space-between; align-items: flex-end; gap: 2rem; margin-top: 2.2rem; }
 .hero-bottom p { max-width: 35rem; font-size: clamp(.95rem, 1.25vw, 1.15rem); line-height: 1.6; }
 .text-link { display: inline-flex; align-items: center; justify-content: space-between; gap: 2rem; min-height: 44px; font-size: .85rem; white-space: nowrap; }
