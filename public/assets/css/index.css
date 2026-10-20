@@ -45,8 +45,8 @@ h1 span { display: block; }
 .text-link span { font-size: 1.3rem; }
 .landscape { height: clamp(340px, 49vw, 900px); overflow: hidden; background: #394338; }
 .mountains img { object-position: center 57%; }
-.redwoods { height: clamp(360px, 48vw, 850px); }
-.redwoods img { object-position: center 62%; }
+.workshop { height: clamp(360px, 48vw, 850px); }
+.workshop img { object-position: center 25%; }
 .mushrooms { height: clamp(340px, 43vw, 760px); }
 .mushrooms img { object-position: center 56%; }
 .section { display: grid; grid-template-columns: 1fr 1fr; gap: clamp(3rem, 8vw, 10rem); padding-block: clamp(4rem, 8.5vw, 9rem); }
@@ -84,7 +84,7 @@ h2 { font-size: clamp(2.1rem, 3.6vw, 4.5rem); font-weight: 600; line-height: 1.0
   .hero-bottom p { max-width: 27rem; }
   .landscape { height: 65svh; min-height: 360px; max-height: 620px; }
   .mountains img { object-position: 49% center; }
-  .redwoods img { object-position: 56% 60%; }
+  .workshop img { object-position: 42% center; }
   .mushrooms { height: 52svh; min-height: 320px; }
   .mushrooms img { object-position: 37% center; }
   .section { grid-template-columns: 1fr; gap: 2rem; }
